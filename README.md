@@ -1,5 +1,4 @@
-### Hi there 👋
-### - I´m currently working on my masters degree in Information Science
+### - Currently working on my masters degree in Information Science
 ### - Based in Norway at the University of Bergen
 
 <!--
