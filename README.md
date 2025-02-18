@@ -1,5 +1,5 @@
 ### - Masters degree in Information Science from the University of Bergen📝👨‍🎓
-### - Experis Academy - Junior Developer- .NET Fullstack
+### - Experis Academy - .NET Fullstack Developer
 
 
 <!--
